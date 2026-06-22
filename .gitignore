@@ -1,0 +1,30 @@
+# Python environment folders
+venv/
+vernv/
+env/
+ENV/
+.venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Package directories
+*.egg-info/
+.Python
+
+# Git LFS artifacts if present
+*.gitattributes
